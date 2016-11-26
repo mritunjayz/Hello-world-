@@ -1,3 +1,5 @@
+/*sock merchant*/
+//sushil khanchi
 #include<stdio.h>
 int main()
 {
